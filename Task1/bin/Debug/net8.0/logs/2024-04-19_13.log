@@ -1,0 +1,104 @@
+7 |2024-04-19 18:32:12.6375 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:32:12.7887 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+9 |2024-04-19 18:32:32.3701 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+9 |2024-04-19 18:32:32.4267 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+6 |2024-04-19 18:33:10.6086 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+6 |2024-04-19 18:33:10.6624 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+6 |2024-04-19 18:33:10.7904 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+6 |2024-04-19 18:33:11.7870 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+6 |2024-04-19 18:33:11.7870 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+6 |2024-04-19 18:33:11.7870 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+12 |2024-04-19 18:33:13.9102 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+12 |2024-04-19 18:33:13.9660 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+6 |2024-04-19 18:34:46.9170 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+6 |2024-04-19 18:34:47.0706 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+7 |2024-04-19 18:34:56.8226 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+7 |2024-04-19 18:34:56.8226 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+7 |2024-04-19 18:34:56.8243 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:34:56.8727 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+7 |2024-04-19 18:34:56.8727 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+7 |2024-04-19 18:34:56.8727 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-19 18:34:58.6429 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:34:58.7262 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+15 |2024-04-19 18:35:41.3253 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+15 |2024-04-19 18:35:41.5052 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+14 |2024-04-19 18:37:13.4672 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+14 |2024-04-19 18:37:13.4865 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+14 |2024-04-19 18:37:13.7577 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+14 |2024-04-19 18:37:13.7577 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed
+9 |2024-04-19 18:45:56.5943 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+9 |2024-04-19 18:45:56.6023 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+9 |2024-04-19 18:45:56.6023 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+9 |2024-04-19 18:45:56.7742 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+9 |2024-04-19 18:45:56.7742 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+9 |2024-04-19 18:45:56.7742 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-19 18:45:58.5026 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:45:58.5501 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+7 |2024-04-19 18:46:05.2838 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+7 |2024-04-19 18:46:05.2838 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+7 |2024-04-19 18:46:05.2838 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:46:05.3344 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+7 |2024-04-19 18:46:05.3344 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+7 |2024-04-19 18:46:05.3344 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-19 18:46:07.0684 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:46:07.1212 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+15 |2024-04-19 18:46:08.1345 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+15 |2024-04-19 18:46:08.1345 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+15 |2024-04-19 18:46:08.1345 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+15 |2024-04-19 18:46:08.1587 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+15 |2024-04-19 18:46:08.1587 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+15 |2024-04-19 18:46:08.1587 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+6 |2024-04-19 18:49:56.0356 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+6 |2024-04-19 18:49:56.0805 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+6 |2024-04-19 18:49:56.1922 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+6 |2024-04-19 18:49:57.3289 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+6 |2024-04-19 18:49:57.3289 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+6 |2024-04-19 18:49:57.3289 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+6 |2024-04-19 18:50:03.1441 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+6 |2024-04-19 18:50:03.1441 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+6 |2024-04-19 18:50:03.1441 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+6 |2024-04-19 18:50:03.1927 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+6 |2024-04-19 18:50:03.1927 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+6 |2024-04-19 18:50:03.1927 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+19 |2024-04-19 18:50:16.0334 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+19 |2024-04-19 18:50:16.1168 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+19 |2024-04-19 18:50:19.2902 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+19 |2024-04-19 18:50:19.2902 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+19 |2024-04-19 18:50:19.2902 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+19 |2024-04-19 18:50:19.3360 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+19 |2024-04-19 18:50:19.3360 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+19 |2024-04-19 18:50:19.3360 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+14 |2024-04-19 18:50:21.3999 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+14 |2024-04-19 18:50:21.4272 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+12 |2024-04-19 18:55:16.7855 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+12 |2024-04-19 18:55:16.9507 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+9 |2024-04-19 18:55:29.2566 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+9 |2024-04-19 18:55:29.3090 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+10 |2024-04-19 18:56:14.0931 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+10 |2024-04-19 18:56:14.2669 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+19 |2024-04-19 18:56:29.6314 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+19 |2024-04-19 18:56:29.6314 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+19 |2024-04-19 18:56:29.6337 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+19 |2024-04-19 18:56:29.6790 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+19 |2024-04-19 18:56:29.6790 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+19 |2024-04-19 18:56:29.6790 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-19 18:56:40.2743 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+7 |2024-04-19 18:56:40.2743 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:56:40.3373 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+7 |2024-04-19 18:56:40.3373 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed
+20 |2024-04-19 18:56:51.0859 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+20 |2024-04-19 18:56:51.0859 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+20 |2024-04-19 18:56:51.1233 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 5
+20 |2024-04-19 18:56:51.1233 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-19 18:58:32.6347 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+7 |2024-04-19 18:58:32.6448 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+7 |2024-04-19 18:58:32.6448 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+7 |2024-04-19 18:58:32.7107 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+7 |2024-04-19 18:58:32.7107 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+7 |2024-04-19 18:58:32.7107 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+4 |2024-04-19 18:58:44.0612 |DEBUG |Tasl1 |Task1.Pages.FinalList.ListModel.OnGet |Calling List on get method
+4 |2024-04-19 18:58:44.0612 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+4 |2024-04-19 18:58:44.0612 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+4 |2024-04-19 18:58:44.1240 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 3
+4 |2024-04-19 18:58:44.1240 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+4 |2024-04-19 18:58:44.1240 |DEBUG |Tasl1 |Task1.Pages.FinalList.ListModel.OnGet |List Page on get method completed

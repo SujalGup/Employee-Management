@@ -1,0 +1,71 @@
+9 |2024-04-26 17:52:23.8817 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+9 |2024-04-26 17:52:24.1567 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+9 |2024-04-26 17:52:25.9827 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 3
+9 |2024-04-26 17:52:25.9827 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed
+19 |2024-04-26 17:53:26.5975 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Adding Project
+19 |2024-04-26 17:53:26.5975 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getting Project having {Project.Name} in Db
+19 |2024-04-26 17:53:26.7111 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getted Project having {project.Name} in Db
+19 |2024-04-26 17:53:26.7111 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Adding {project.Name} in Project Db
+19 |2024-04-26 17:53:26.8209 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Added {project.Name} in Project Db
+19 |2024-04-26 17:53:26.8209 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Added Project to DB
+13 |2024-04-26 18:04:10.8406 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Adding Project
+13 |2024-04-26 18:04:10.9585 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getting Project having {Project.Name} in Db
+13 |2024-04-26 18:04:12.1781 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getted Project having {project.Name} in Db
+13 |2024-04-26 18:04:12.1781 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Not Added Project to DB
+4 |2024-04-26 18:04:22.3778 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+4 |2024-04-26 18:04:22.3778 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+4 |2024-04-26 18:04:22.4278 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 1
+4 |2024-04-26 18:04:22.4278 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+6 |2024-04-26 18:04:48.3415 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Adding Project
+6 |2024-04-26 18:04:48.3415 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getting Project having {Project.Name} in Db
+6 |2024-04-26 18:04:48.4189 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getted Project having {project.Name} in Db
+6 |2024-04-26 18:04:48.4189 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Adding {project.Name} in Project Db
+6 |2024-04-26 18:04:48.5576 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Added {project.Name} in Project Db
+6 |2024-04-26 18:04:48.5576 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Added Project to DB
+6 |2024-04-26 18:04:48.5680 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+6 |2024-04-26 18:04:48.5680 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+6 |2024-04-26 18:04:48.5680 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 2
+6 |2024-04-26 18:04:48.5680 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+6 |2024-04-26 18:04:55.3699 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGetDelete |Calling List on Get By Delete:2 method
+6 |2024-04-26 18:04:55.3699 |DEBUG |Data Layer |DataLayer.ProjectDB.Delete |Deleting Project having {Project.Id} in Db
+6 |2024-04-26 18:04:55.4219 |DEBUG |Data Layer |DataLayer.ProjectDB.Delete |Deleted Project having {Project.Id} in Db
+6 |2024-04-26 18:04:55.4219 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGetDelete |Called List on Get By Delete:2 method
+12 |2024-04-26 18:04:55.4343 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+12 |2024-04-26 18:04:55.4343 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+12 |2024-04-26 18:04:55.4343 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 1
+12 |2024-04-26 18:04:55.4343 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+12 |2024-04-26 18:15:02.3761 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+12 |2024-04-26 18:15:02.3886 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+12 |2024-04-26 18:15:02.5934 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 1
+12 |2024-04-26 18:15:02.5934 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-26 18:15:30.6632 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Adding Project
+7 |2024-04-26 18:15:30.6632 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getting Project having {Project.Name} in Db
+7 |2024-04-26 18:15:30.7262 |DEBUG |Data Layer |DataLayer.ProjectDB.GetByName |Getted Project having {project.Name} in Db
+7 |2024-04-26 18:15:30.7262 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Adding {project.Name} in Project Db
+7 |2024-04-26 18:15:30.8173 |DEBUG |Data Layer |DataLayer.ProjectDB.Add |Added {project.Name} in Project Db
+7 |2024-04-26 18:15:30.8173 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Add |Added Project to DB
+12 |2024-04-26 18:15:30.8173 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+12 |2024-04-26 18:15:30.8324 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+12 |2024-04-26 18:15:30.8324 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 2
+12 |2024-04-26 18:15:30.8324 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+7 |2024-04-26 18:15:35.2569 |DEBUG |Service Layer |ServiceLayer.ProjectManager.GetById |Deleting Project to DB
+7 |2024-04-26 18:15:35.2569 |DEBUG |Data Layer |DataLayer.ProjectDB.GetById |Fetching Project having {project.Id} in Db
+7 |2024-04-26 18:15:35.3298 |DEBUG |Data Layer |DataLayer.ProjectDB.GetById |Fetched Project having {project.Id} in Db
+7 |2024-04-26 18:15:35.3298 |DEBUG |Service Layer |ServiceLayer.ProjectManager.GetById |Deleted Project to DB
+18 |2024-04-26 18:15:42.8711 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Update |Updating Project to DB
+18 |2024-04-26 18:15:42.8711 |DEBUG |Data Layer |DataLayer.ProjectDB.Update |Updating project having {project.Id} in Db
+14 |2024-04-26 18:23:21.5184 |DEBUG |Service Layer |ServiceLayer.ProjectManager.Update |Updating Project to DB
+14 |2024-04-26 18:23:21.5279 |DEBUG |Data Layer |DataLayer.ProjectDB.Update |Updating project having {project.Id} in Db
+14 |2024-04-26 18:23:21.7077 |DEBUG |Data Layer |DataLayer.ProjectDB.Update |Updated project having {project.Id} in Db
+12 |2024-04-26 18:23:21.7443 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+12 |2024-04-26 18:23:21.7443 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+12 |2024-04-26 18:23:21.7521 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 2
+12 |2024-04-26 18:23:21.7521 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed
+12 |2024-04-26 18:23:28.7243 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGetDelete |Calling List on Get By Delete:3 method
+12 |2024-04-26 18:23:28.7243 |DEBUG |Data Layer |DataLayer.ProjectDB.Delete |Deleting Project having {Project.Id} in Db
+12 |2024-04-26 18:23:28.8134 |DEBUG |Data Layer |DataLayer.ProjectDB.Delete |Deleted Project having {Project.Id} in Db
+12 |2024-04-26 18:23:28.8134 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGetDelete |Called List on Get By Delete:3 method
+12 |2024-04-26 18:23:28.8287 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |Calling List on get method
+12 |2024-04-26 18:23:28.8287 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetching Record From DB
+12 |2024-04-26 18:23:28.8287 |DEBUG |Data Layer |DataLayer.ProjectDB.GetAll |Fetched Record From DB count - 1
+12 |2024-04-26 18:23:28.8287 |DEBUG |Tasl1 |Task1.Pages.ProjectNTier.ListModel.OnGet |List Page on get method completed

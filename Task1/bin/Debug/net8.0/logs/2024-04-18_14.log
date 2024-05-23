@@ -1,0 +1,4 @@
+19 |2024-04-18 19:30:16.1901 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+19 |2024-04-18 19:30:16.1901 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+19 |2024-04-18 19:30:16.2281 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 2
+19 |2024-04-18 19:30:16.2290 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed

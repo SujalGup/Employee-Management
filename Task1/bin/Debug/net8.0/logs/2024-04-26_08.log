@@ -1,0 +1,20 @@
+4 |2024-04-26 13:31:44.4274 |DEBUG |Tasl1 |Task1.Pages.FinalList.ListModel.OnGet |Calling List on get method
+4 |2024-04-26 13:31:44.5596 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+4 |2024-04-26 13:31:44.8476 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+4 |2024-04-26 13:31:47.8553 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 1
+4 |2024-04-26 13:31:47.8553 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+4 |2024-04-26 13:31:47.8553 |DEBUG |Tasl1 |Task1.Pages.FinalList.ListModel.OnGet |List Page on get method completed
+9 |2024-04-26 14:14:08.9525 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+9 |2024-04-26 14:14:09.1334 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+9 |2024-04-26 14:14:09.4454 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+9 |2024-04-26 14:14:12.4703 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 1
+9 |2024-04-26 14:14:12.4703 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+9 |2024-04-26 14:14:12.4703 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+16 |2024-04-26 14:14:15.1896 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+16 |2024-04-26 14:14:15.2485 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 3
+7 |2024-04-26 14:14:54.4181 |DEBUG |Service Layer |ServiceLayer.CategoryManager.Add |Adding Category
+7 |2024-04-26 14:14:54.4220 |DEBUG |Data Layer |DataLayer.CategoryDB.GetByName |Fetching Category to DB by name
+7 |2024-04-26 14:14:54.7378 |DEBUG |Data Layer |DataLayer.CategoryDB.GetByName |Fetching Category to DB by Name
+7 |2024-04-26 14:14:54.7378 |DEBUG |Data Layer |DataLayer.CategoryDB.Add |Adding {category.Name} in Category Db
+7 |2024-04-26 14:14:54.8973 |DEBUG |Data Layer |DataLayer.CategoryDB.Add |Added {category.Name} in Category Db
+7 |2024-04-26 14:14:54.8973 |DEBUG |Service Layer |ServiceLayer.CategoryManager.Add |Added Category to DB

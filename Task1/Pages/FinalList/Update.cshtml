@@ -1,0 +1,68 @@
+﻿@page
+@model Task1.Pages.FinalList.UpdateModel
+@{
+}
+<h1>Update Employees</h1>
+<form method="post">
+    <div class="form-group row">
+
+        @Html.HiddenFor(x => x.Id)
+
+        <label for="Name" class="col-sm-2 col-form-label">Name</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Name" placeholder="Name" asp-for="Name">
+            <span asp-validation-for="Name"></span>*@
+
+            @Html.TextBoxFor(s => s.Name, new { placeholder = "Name", @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Name)
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="Email" class="col-sm-2 col-form-label">Email</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Email" placeholder="Email" asp-for="Email">
+            <span asp-validation-for="Email"></span>*@
+
+            @Html.TextBoxFor(s => s.Email, new { placeholder = "Email", @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Email)
+
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="Phone" class="col-sm-2 col-form-label">Phone</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Phone" placeholder="Phone" asp-for="Phone">*@
+
+            @Html.TextBoxFor(s => s.Phone, new { placeholder = "Phone", @class = "form-control" })
+
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="Depatment" class="col-sm-2 col-form-label">Department</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Phone" placeholder="Phone" asp-for="Phone">*@
+
+            @Html.DropDownListFor(s => s.Department, new SelectList(Model.DepartmentList), "Select Department", new { @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Department)
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label for="Status" class="col-sm-2 col-form-label">Status</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Phone" placeholder="Phone" asp-for="Phone">*@
+
+            @Html.DropDownListFor(s => s.Status, new SelectList(Model.StatusList), "Select Status", new { @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Status)
+        </div>
+    </div>
+    <br />
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+@section scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

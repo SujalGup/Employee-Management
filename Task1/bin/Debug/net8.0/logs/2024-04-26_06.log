@@ -1,0 +1,18 @@
+16 |2024-04-26 11:56:00.8201 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+16 |2024-04-26 11:56:01.0927 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+16 |2024-04-26 11:56:01.5839 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+16 |2024-04-26 11:56:05.5050 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 1
+16 |2024-04-26 11:56:05.5050 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+16 |2024-04-26 11:56:05.5050 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+26 |2024-04-26 11:56:59.5369 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+26 |2024-04-26 11:56:59.5431 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+26 |2024-04-26 11:56:59.6814 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 3
+26 |2024-04-26 11:56:59.6814 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed
+25 |2024-04-26 11:57:27.2410 |DEBUG |Tasl1 |Task1.Pages.CategoryNTeir.ListModel.OnGet |Calling List on get method
+25 |2024-04-26 11:57:27.2442 |DEBUG |Data Layer |DataLayer.CategoryDB.GetAll |Fetching Record From DB
+25 |2024-04-26 11:57:27.4485 |DEBUG |Data Layer |DataLayer.CategoryDB.GetAll |Fetched Record From DB count - 0
+25 |2024-04-26 11:57:27.4485 |DEBUG |Tasl1 |Task1.Pages.CategoryNTeir.ListModel.OnGet |List Page on get method completed
+10 |2024-04-26 12:09:50.6755 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |Calling List on get method
+10 |2024-04-26 12:09:50.6893 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetching Record From DB
+10 |2024-04-26 12:09:51.0067 |DEBUG |Data Layer |DataLayer.DepartmentDB.GetAll |Fetched Record From DB count - 3
+10 |2024-04-26 12:09:51.0067 |DEBUG |Tasl1 |Task1.Pages.DepartmentNTier.ListModel.OnGet |List Page on get method completed

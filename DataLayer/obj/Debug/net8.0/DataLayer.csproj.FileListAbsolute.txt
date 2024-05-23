@@ -1,0 +1,15 @@
+D:\GreatDeveloper\Task1\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+D:\GreatDeveloper\Task1\DataLayer\bin\Debug\net8.0\DataLayer.dll
+D:\GreatDeveloper\Task1\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+D:\GreatDeveloper\Task1\DataLayer\bin\Debug\net8.0\Core.dll
+D:\GreatDeveloper\Task1\DataLayer\bin\Debug\net8.0\Core.pdb
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.dll
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\GreatDeveloper\Task1\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

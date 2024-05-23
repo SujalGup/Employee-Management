@@ -1,0 +1,17 @@
+17 |2024-04-18 12:13:55.7970 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+17 |2024-04-18 12:13:55.8794 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+17 |2024-04-18 12:13:56.0116 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+13 |2024-04-18 12:25:54.2540 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+13 |2024-04-18 12:25:54.2540 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+13 |2024-04-18 12:25:54.2540 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+13 |2024-04-18 12:25:54.4298 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 4
+13 |2024-04-18 12:25:54.4298 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+13 |2024-04-18 12:25:54.4298 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed
+12 |2024-04-18 12:26:26.6823 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.Add |Adding employee from serviec layer
+12 |2024-04-18 12:26:26.8328 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.Add |Added employee from serviec layer
+13 |2024-04-18 12:26:26.9039 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |Calling List on get method
+13 |2024-04-18 12:26:26.9039 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetching all record
+13 |2024-04-18 12:26:26.9039 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetching Record From DB
+13 |2024-04-18 12:26:26.9039 |DEBUG |Data Layer |DataLayer.EmployeeDB.GetAll |Fetched Record From DB count - 5
+13 |2024-04-18 12:26:26.9039 |DEBUG |Service Layer |ServiceLayer.EmployeeManager.GetAll |Fetched all record
+13 |2024-04-18 12:26:26.9039 |DEBUG |Tasl1 |Task1.Pages.EmployeeNTier.ListModel.OnGet |List Page on get method completed

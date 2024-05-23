@@ -1,0 +1,51 @@
+﻿@page
+@model Task1.Pages.DepartmentNTier.UpdateModel
+@{
+
+}
+
+<h1 style="text-align:center; color:white;">Update Department</h1>
+
+
+<div style="display: flex; justify-content: center; align-items: flex-start; height: 100vh;">
+    <form method="post" style="width: 50%; border: 1px solid black; padding: 30px;  background-color:ghostwhite; border-radius: 10px;">
+    <div class="form-group row">
+
+        @Html.HiddenFor(x => x.Id)
+
+            <label for="Name" class="col-sm-2 col-form-label" style="margin-bottom: 20px;">Name</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Name" placeholder="Name" asp-for="Name">
+            <span asp-validation-for="Name"></span>*@
+
+            @Html.TextBoxFor(s => s.Name, new { placeholder = "Name", @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Name)
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="Description" class="col-sm-2 col-form-label">Description</label>
+        <div class="col-sm-10">
+            @*<input type="text" class="form-control" name="Email" placeholder="Email" asp-for="Email">
+            <span asp-validation-for="Email"></span>*@
+
+            @Html.TextAreaFor(s => s.Description, new { placeholder = "Description", @class = "form-control" })
+            @Html.ValidationMessageFor(s => s.Description)
+
+        </div>
+    </div>
+    
+
+    <br />
+        <div class="d-flex justify-content-center">
+
+    <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+</form>
+</div>
+
+@section scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    
+
+}
